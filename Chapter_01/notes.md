@@ -13,7 +13,7 @@ There are two primary types of databases: operational and analytical.
     * The data is **dynamic** and changes frequently (e.g., a database for an e-commerce store's inventory and sales).
 
 * **Analytical Database**
-    * Used for **OLAP** (Online Analytical Processing), which involves analyzing historical data for business intelligence. 📊
+    * Used for **OLAP** (Online Analytical Processing), which involves analyzing historical data for business intelligence. 
     * The data is **static**, meaning it's a snapshot in time and doesn't change.
     * Often uses data from one or more operational databases as its source.
 
@@ -38,4 +38,4 @@ A **relational database** is a type of database that stores data in relations, w
     * This is ensured by the **ACID** properties (Atomicity, Consistency, Isolation, Durability), which govern how transactions are processed.
 
 4.  **Easy Data Retrieval**
-    * Uses **SQL (Structured Query Language)**, a powerful and intuitive language that allows users to easily access and manipulate data. 🔎
+    * Uses **SQL (Structured Query Language)**, a powerful and intuitive language that allows users to easily access and manipulate data. 
