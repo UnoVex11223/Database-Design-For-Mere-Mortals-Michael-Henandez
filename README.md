@@ -8,7 +8,7 @@ This repository contains my personal notes, chapter summaries, and solutions to 
 
 | Chapter | Notes | Solved Problems |
 | :--- | :--- | :--- |
-| 01 The relational Database | [Notes](./Chapter_01_What_Is_a_Database/notes.md) | [Problems](./Chapter_01_What_Is_a_Database/solved_problems.md) |
+| Chapter 1 The relational Database | [Notes](./Chapter_01_/notes.md) | [Problems](./Chapter_01_/solved_problems.md) |
 | 02 | [Notes](./Chapter_02_The_Relational_Model/notes.md) | [Problems](./Chapter_02_The_Relational_Model/solved_problems.md) |
 | 03 | [Notes](./Chapter_03_The_Design_Process/notes.md) | `[Link to problems]` |
 | 04 | `[Link to notes]` | `[Link to problems]` |
