@@ -10,7 +10,7 @@ This repository contains my personal notes, chapter summaries, and solutions to 
 | :--- | :--- | :--- |
 | Chapter 1 The relational Database | [Notes](./Chapter_01/notes.md) | [Problems](./Chapter_01/solved_problems.md) |
 | Chapter 2 Design Objectives | [Notes](./Chapter_02/notes.md) | [Problems](./Chapter_02/solved_problems.md) |
-| Chapter 3 Terminology | [Notes](./Chapter_03_The_Design_Process/notes.md) | `[Link to problems]` |
+| Chapter 3 Terminology | [Notes](./Chapter_03/notes.md) |[Problems](./Chapter_03/solved_problems.md) |
 | 04 | `[Link to notes]` | `[Link to problems]` |
 
 ---
