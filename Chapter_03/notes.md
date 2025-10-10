@@ -55,12 +55,12 @@ The terms used in database design can be grouped into four main categories:
 
 ## Relationship & Integrity Related Terms
 
-### Keys 🔑
+### Keys 
 * **Key**: A special field (or combination of fields) that serves a specific role within a table.
 * **Primary Key (PK)**: A field whose value **uniquely identifies** every single record in a table. Its value can never be `NULL`.
 * **Foreign Key (FK)**: A field in one table that is a primary key in another table. It is used to establish a **relationship** between the two tables.
 
-### Relationships 🔗
+### Relationships 
 * **Relationship**: An association between two tables where records in one table are linked to records in another. This is established using primary and foreign keys.
     * **One-to-One (1:1)**: A single record in one table is related to, at most, one record in the second table.
     * **One-to-Many (1:N)**: A single record in one table can be related to zero, one, or many records in the second table.
