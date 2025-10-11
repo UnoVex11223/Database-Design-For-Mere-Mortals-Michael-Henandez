@@ -4,7 +4,7 @@ This document outlines a structured, seven-step methodology for designing a robu
 
 ***
 
-### 1. Define the Mission Statement & Objectives 🎯
+### 1. Define the Mission Statement & Objectives 
 This initial step establishes the **purpose** and **focus** of the database.
 
 * **Mission Statement**: A brief, clear statement on the purpose of the database. (e.g., "To manage customer orders and track inventory.")
@@ -12,7 +12,7 @@ This initial step establishes the **purpose** and **focus** of the database.
 
 ***
 
-### 2. Analyze the Current Database 🔍
+### 2. Analyze the Current Database 
 If a database already exists, you must analyze it to understand current processes and identify areas for improvement.
 
 * **Review the Legacy System**: Examine the existing database structure and how the organization currently uses its data.
@@ -21,7 +21,7 @@ If a database already exists, you must analyze it to understand current processe
 
 ***
 
-### 3. Create the Data Structures 🏗️
+### 3. Create the Data Structures 
 This is the core architectural phase where you build the foundation of the database.
 
 * **Define Tables and Fields**: Group the compiled fields into logical, single-subject tables.
@@ -30,7 +30,7 @@ This is the core architectural phase where you build the foundation of the datab
 
 ***
 
-### 4. Establish Table Relationships 🔗
+### 4. Establish Table Relationships 
 With the tables defined, you now formally establish how they relate to one another.
 
 * **Conduct Further Interviews**: Talk to users to confirm how different subjects (tables) are connected (e.g., "How does a customer relate to an order?").
@@ -39,7 +39,7 @@ With the tables defined, you now formally establish how they relate to one anoth
 
 ***
 
-### 5. Define Business Rules 📜
+### 5. Define Business Rules 
 Business rules are real-world constraints that must be applied to the data to ensure it remains valid and accurate.
 
 * **Conduct More Interviews**: Work with users and stakeholders to identify all the rules and limitations that govern their operations (e.g., "A customer's credit limit cannot exceed $5,000," "An order date cannot be in the future.").
@@ -47,7 +47,7 @@ Business rules are real-world constraints that must be applied to the data to en
 
 ***
 
-### 6. Define Views 🖼️
+### 6. Define Views 
 Views are virtual tables that provide customized perspectives of the data for different user groups.
 
 * **Interview, Interview, Interview**: Determine the various ways that different users or user groups need to see and interact with the data.
@@ -55,7 +55,7 @@ Views are virtual tables that provide customized perspectives of the data for di
 
 ***
 
-### 7. Review Data Integrity ✅
+### 7. Review Data Integrity 
 This final step is a comprehensive quality check of the entire database structure.
 
 * **Final Review**: Meticulously review every table, field, key, relationship, and business rule.
