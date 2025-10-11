@@ -1,22 +1,39 @@
-# Data Structures & Algorithms in Python: Notes & Solutions 🐍
-
-This repository contains my personal notes, chapter summaries, and solutions to the exercises from the book **"Data Structures & Algorithms in Python"** by Goodrich, Tamassia, and Goldwasser.
+In this format # Database Design for Mere Mortals 📚
 
 
 
-This book provides a comprehensive introduction to the design, analysis, and implementation of data structures using modern, object-oriented Python.
+This repository contains my personal notes, chapter summaries, and solutions to the exercises from the book **"Database Design for Mere Mortals, 4th Edition"** by Michael J. Hernandez.
+
+
 
 ---
 
-## My Progress
+
+
+# Database Design for Mere Mortals: Notes & Solutions 📚
+
+
 
 | Chapter | Notes | Solved Problems |
+
 | :--- | :--- | :--- |
-| Chapter 1: Python Primer | [Notes](./Chapter_01/notes.md) | [Problems](./Chapter_01/) |
+
+| Chapter 1 The relational Database | [Notes](./Chapter_01/notes.md) | [Problems](./Chapter_01/solved_problems.md) |
+
+| Chapter 2 Design Objectives | [Notes](./Chapter_02/notes.md) | [Problems](./Chapter_02/solved_problems.md) |
+
+| Chapter 3 Terminology | [Notes](./Chapter_03/notes.md) |[Problems](./Chapter_03/solved_problems.md) |
+
+| Chapter 4 Conceptual Overview | [Notes](./Chapter_04/notes.md) | [Problems](./Chapter_04/solved_problems.md) |
+
 
 
 ---
 
-## Folder Structure
 
-To keep this repository organized, all materials are placed in folders named after their corresponding chapter. For example, all notes and problem solutions for Chapter 1 are located in the `/Chapter_01/` directory.
+
+## Suggested Folder Structure
+
+
+
+To keep the repository organized, all materials are placed in folders named after their corresponding chapter.
