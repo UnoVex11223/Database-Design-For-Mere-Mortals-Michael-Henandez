@@ -16,8 +16,6 @@ This repository contains my personal notes, chapter summaries, and solutions to 
 
 | Chapter | Notes | Solved Problems |
 
-| :--- | :--- | :--- |
-
 | Chapter 1 The relational Database | [Notes](./Chapter_01/notes.md) | [Problems](./Chapter_01/solved_problems.md) |
 
 | Chapter 2 Design Objectives | [Notes](./Chapter_02/notes.md) | [Problems](./Chapter_02/solved_problems.md) |
@@ -25,6 +23,8 @@ This repository contains my personal notes, chapter summaries, and solutions to 
 | Chapter 3 Terminology | [Notes](./Chapter_03/notes.md) |[Problems](./Chapter_03/solved_problems.md) |
 
 | Chapter 4 Conceptual Overview | [Notes](./Chapter_04/notes.md) | [Problems](./Chapter_04/solved_problems.md) |
+
+| Chapter 5 Starting the Process | [Notes](./Chapter_05/notes.md) | [Problems](./Chapter_05/solved_problems.md) |
 
 
 
